@@ -5,10 +5,12 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+<div>
+  <p>
+    hello!
+  </p>
+</div>
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+<div>
+  <iframe src='https://webchat.botframework.com/embed/krqnaservice-newbot?s=FTslZw93apo.oqBscZyQzMoejc1TsDh2FacmlQVGguoOg-uW21w1vtM'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+</div>

@@ -13,30 +13,30 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: History
+    # - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
+      value: dinky_apple@naver.com
+      link: mailto:dinky_apple@naver.com
+    - name: KakaoTalk
+      value: dinky24
       link: "#"
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
+      link: 
       username: "@YourTwitterUsername"
     - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: 
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: 
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: https://github.com/krChatBot/client
     - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
+      link: 
     - name: RSS
       link: /feed.xml
 
