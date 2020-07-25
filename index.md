@@ -5,10 +5,10 @@ profile_picture:
   alt: website picture
 ---
 
-<span style="margin:30px">
-  <p>
+<span style='text-align:center; margin:20px'>
+  <h4>
     감정을 챗봇에게 말해주세요!
-  </p>
+  </h4>
 </span>
 
 <div>
