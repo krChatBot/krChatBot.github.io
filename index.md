@@ -5,11 +5,11 @@ profile_picture:
   alt: website picture
 ---
 
-<div>
+<span style="margin:30px">
   <p>
-    hello!
+    감정을 챗봇에게 말해주세요!
   </p>
-</div>
+</span>
 
 <div>
   <iframe src='https://webchat.botframework.com/embed/krqnaservice-newbot?s=FTslZw93apo.oqBscZyQzMoejc1TsDh2FacmlQVGguoOg-uW21w1vtM'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
